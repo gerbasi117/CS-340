@@ -125,7 +125,7 @@ This project demonstrates how data management and visualization can improve deci
 
 Submission Instructions
 
-GitHub Repository Link: [Include your repo link here]
+GitHub Repository Link: git@github.com:gerbasi117/CS-340.git
 
 README File: This document
 
